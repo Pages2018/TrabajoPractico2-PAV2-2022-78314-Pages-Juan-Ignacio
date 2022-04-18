@@ -1,0 +1,14 @@
+.container 
+{
+  width: 100%;
+  border: 1px solid gray;
+}
+
+header, footer
+{
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left; /* hace que comiencen en el margen izquierdo */
+  text-align: center;
+}
